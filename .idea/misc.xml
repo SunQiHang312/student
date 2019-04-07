@@ -4,7 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/stu/pom.xml" />
         <option value="$PROJECT_DIR$/stuclass/pom.xml" />
         <option value="$PROJECT_DIR$/stu_service/pom.xml" />
         <option value="$PROJECT_DIR$/stu_web/pom.xml" />
